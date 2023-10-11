@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\bin\Release\RemoteDesktopCloud.exe.config
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\bin\Release\RemoteDesktopCloud.exe.manifest
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\bin\Release\RemoteDesktopCloud.application
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\bin\Release\RemoteDesktopCloud.exe
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\bin\Release\RemoteDesktopCloud.pdb
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\obj\Release\RemoteDesktopCloud.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\obj\Release\WindowsFormsApp2.mainFrm.resources
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\obj\Release\RemoteDesktopCloud.csproj.GenerateResource.cache
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\obj\Release\RemoteDesktopCloud.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\obj\Release\RemoteDesktopCloud.TrustInfo.xml
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\obj\Release\RemoteDesktopCloud.exe.manifest
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\obj\Release\RemoteDesktopCloud.application
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\obj\Release\RemoteDesktopCloud.exe
+C:\Users\pc\Documents\GitHub\RemoteDeskopCloud\RemoteDesktopCloud\obj\Release\RemoteDesktopCloud.pdb
